@@ -22,4 +22,13 @@ language processing (NLP) tasks. BERT is pre-trained on a large corpus of text i
 it considers the context from both left and right directions. This allows it to understand the nuanced meaning of 
 words in context. BERT is used in search engines to better understand user queries and provide more relevant results.
 
+4. Vanishing Gradient: →
+→ In vanishing gradients the model’s weights are updated very slowly, making it difficult for the network to learn 
+results. 
+
+5. Exploding Gradient: →
+→ When weights change fast & frequently the exploding gradient occurs.  These can cause the model’s weights to grow 
+uncontrollably, leading to instability and poor model performance. Techniques like gradient clipping are used to 
+address this issue.
+
 '''
