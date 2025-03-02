@@ -31,4 +31,16 @@ results.
 uncontrollably, leading to instability and poor model performance. Techniques like gradient clipping are used to 
 address this issue.
 
+6. Gradient Boosting: →
+→ Gradient boosting improves predictions step by step. Each new model learns from the mistakes of the previous one, 
+making the overall prediction more accurate. This helps the model learn complex patterns and make better predictions.
+
+7. Random Forest: →
+→ Random forest improves predictions by using many decision trees instead of just one. Each tree learns from a random 
+part of the data, and the final result is based on the average (for numbers) or majority vote (for categories). 
+This makes the model more accurate and reduces overfitting.
+Random forests are used in credit scoring to predict the likelihood of default. 
+By aggregating the predictions of multiple decision trees, the model provides more robust and accurate predictions.
+
+
 '''
