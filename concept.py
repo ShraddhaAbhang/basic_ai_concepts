@@ -42,5 +42,18 @@ This makes the model more accurate and reduces overfitting.
 Random forests are used in credit scoring to predict the likelihood of default. 
 By aggregating the predictions of multiple decision trees, the model provides more robust and accurate predictions.
 
+8. Logistic Regression: →
+→ Logistic regression is a statistical model used for binary classification tasks.  Logistic regression is a method used
+ to classify things into two groups, like yes/no or true/false.It predicts the probability of something happening and 
+ decides based on a set threshold.
+For example, doctors use it to check if a patient has diabetes based on factors like age, BMI, and blood pressure.
+
+9. Linear Regression: →
+→ Linear regression is a statistical method for modeling the relationship between a dependent variable and one or more 
+independent variables. used for predicting continuous outcomes. The model assumes a linear relationship and fits a linear line. 
+
+10. LSTM (Long Short-Term Memory): →
+→ LSTM is a special type of recurrent neural network that helps understand patterns in sequence data over time.It solves the vanishing gradient problem of forgetting old information by using memory cells that store important details for longer.
+For example, LSTMs are used to predict stock prices and for language tasks like translation and text generation.
 
 '''
