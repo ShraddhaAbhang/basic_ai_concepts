@@ -50,10 +50,24 @@ For example, doctors use it to check if a patient has diabetes based on factors 
 
 9. Linear Regression: →
 → Linear regression is a statistical method for modeling the relationship between a dependent variable and one or more 
-independent variables. used for predicting continuous outcomes. The model assumes a linear relationship and fits a linear line. 
+independent variables. used for predicting continuous outcomes. The model assumes a linear relationship and fits a linear 
+line. 
 
 10. LSTM (Long Short-Term Memory): →
-→ LSTM is a special type of recurrent neural network that helps understand patterns in sequence data over time.It solves the vanishing gradient problem of forgetting old information by using memory cells that store important details for longer.
+→ LSTM is a special type of recurrent neural network that helps understand patterns in sequence data over time.It solves 
+the vanishing gradient problem of forgetting old information by using memory cells that store important details for longer.
 For example, LSTMs are used to predict stock prices and for language tasks like translation and text generation.
+
+11. LLM (Large Language Model): →
+→ LLMs (Large Language Models) are advanced NLP models trained on vast amounts of text to understand and generate human 
+language.They use deep learning techniques, like transformers, to recognize patterns, context, and meaning, enabling them to 
+perform various language tasks with minimal fine-tuning.
+For example, models like GPT-3 can generate text, power chatbots, assist in automated content creation, and even write code.
+
+12. Variance: →
+→ Variance measures the spread of data points around the mean in a dataset. High variance indicates that data points are 
+spread out widely, while low variance indicates that data points are close to the mean. It’s important for understanding 
+data distribution and variability.
+
 
 '''
