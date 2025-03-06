@@ -69,5 +69,15 @@ For example, models like GPT-3 can generate text, power chatbots, assist in auto
 spread out widely, while low variance indicates that data points are close to the mean. It’s important for understanding 
 data distribution and variability.
 
+13. YOLO (You Only Look Once): →
+→ YOLO is a real-time object detection algorithm that detects objects in images with high speed and accuracy based on 
+convolutional neural networks. YOLO splits the image into a grid and, in one go, predicts bounding boxes and class 
+probabilities for each grid cell. Non-maximum suppression (NMS) is a post-processing technique that is used in object 
+detection tasks to eliminate duplicate detections and select bounding boxes. We remove the box when it has less than 
+0.5 overlapping % using the IOU formula.
+
+14. CNN (Convolutional Neural Network): →
+→ CNNs is a class of deep neural networks designed to process structured grid data like images. CNNs use filters to learn 
+important patterns from images, making them great for tasks like image classification and recognition.
 
 '''
