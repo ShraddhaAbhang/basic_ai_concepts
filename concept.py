@@ -80,4 +80,16 @@ detection tasks to eliminate duplicate detections and select bounding boxes. We 
 → CNNs is a class of deep neural networks designed to process structured grid data like images. CNNs use filters to learn 
 important patterns from images, making them great for tasks like image classification and recognition.
 
+
+15. RCNN (Region-based CNN): →
+→ RCNN is an object detection method (algorithm) that finds and identifies objects in images using CNNs. RCNN first suggests 
+possible object regions, then uses a CNN to classify and refine them, improving accuracy.
+For example, RCNN is used in surveillance to detect cars and people in videos, helping with automated monitoring and alerts.
+
+16. Transformers: →
+→ Transformers are a type of neural network architecture designed for handling sequential data. They use self-attention to find 
+relationships between words, work in parallel, and capture long-range dependencies. Transformers have revolutionized NLP by improving
+performance on tasks like translation and text generation. BERT and GPT are based on transformers and are used for a wide range of 
+NLP tasks, including question answering, language translation, and text summarization.
+
 '''
