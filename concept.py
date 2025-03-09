@@ -92,4 +92,14 @@ relationships between words, work in parallel, and capture long-range dependenci
 performance on tasks like translation and text generation. BERT and GPT are based on transformers and are used for a wide range of 
 NLP tasks, including question answering, language translation, and text summarization.
 
+32. XGBoost: →
+→ XGBoost is an optimized gradient boosting library, a fast and powerful machine-learning tool that improves predictions by combining 
+many small decision trees. Each tree fixes mistakes from the previous ones. It also prevents overfitting, making it reliable. XGBoost 
+is popular for tasks like predicting customer churn.
+
+37. Confusion Matrix: →
+→ A confusion matrix is a table used to evaluate the performance of a classification model by comparing predicted and actual labels. 
+TP,TN, FP, FN. Classification problems like email spam detection, confusion matrix helps understand the number of correctly and incorrectly 
+classified emails, facilitating the calculation of metrics like precision, recall, and F1 score.
+
 '''
