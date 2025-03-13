@@ -102,4 +102,12 @@ is popular for tasks like predicting customer churn.
 TP,TN, FP, FN. Classification problems like email spam detection, confusion matrix helps understand the number of correctly and incorrectly 
 classified emails, facilitating the calculation of metrics like precision, recall, and F1 score.
 
+
+38. Overfitting and Underfitting: →
+→ Overfitting happens when a model learns too much from training data, including noise, making it perform poorly on new data. 
+-> Underfitting happens when a model is too simple and fails to learn important patterns, leading to poor performance on both 
+training and new data.
+For example, in predicting house prices, overfitting may occur if too many unnecessary details are included, while underfitting 
+may happen if only one factor, like square footage, is used. Techniques like cross-validation and regularization help find the right balance.
+
 '''
