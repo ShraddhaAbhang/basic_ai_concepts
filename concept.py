@@ -110,4 +110,10 @@ training and new data.
 For example, in predicting house prices, overfitting may occur if too many unnecessary details are included, while underfitting 
 may happen if only one factor, like square footage, is used. Techniques like cross-validation and regularization help find the right balance.
 
+39. KNN (K-Nearest Neighbors) and K-means: →
+→ Sure! KNN is a simple way to classify data—it looks at the k closest points and assigns the most common label. It’s like 
+recommending products based on what similar users liked.
+K-means, on the other hand, groups data into k clusters based on similarity. It’s used in customer segmentation, like grouping 
+people with similar shopping habits for better marketing.
+
 '''
