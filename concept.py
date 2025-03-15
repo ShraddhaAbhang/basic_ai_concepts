@@ -116,4 +116,11 @@ recommending products based on what similar users liked.
 K-means, on the other hand, groups data into k clusters based on similarity. It’s used in customer segmentation, like grouping 
 people with similar shopping habits for better marketing.
 
+40. Correlation and Covariance: →
+→ Sure! Correlation tells us how strongly two variables move together and in what direction, on a scale from -1 to 1. Covariance also s
+hows how two variables change together, but it doesn’t have a fixed scale.
+For example, in finance, correlation helps check if two stocks move similarly, which is useful for portfolio diversification. 
+Covariance shows whether two assets tend to rise and fall together.
+
+
 '''
