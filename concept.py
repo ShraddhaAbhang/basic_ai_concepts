@@ -122,5 +122,10 @@ hows how two variables change together, but it doesn’t have a fixed scale.
 For example, in finance, correlation helps check if two stocks move similarly, which is useful for portfolio diversification. 
 Covariance shows whether two assets tend to rise and fall together.
 
+41. Mean Squared Error (MSE) & Root Mean Squared Error (RMSE): →
+→ MSE (Mean Squared Error) measures the average squared difference between predicted and actual values. 
+- RMSE (Root Mean Squared Error) is the square root of MSE, providing an error metric in the same units as the target variable.
+- MSE penalizes larger errors more due to squaring, making it sensitive to outliers. while RMSE is often preferred for real-world understanding.
+- For example, in housing price prediction, MSE and RMSE help evaluate how far off the model’s predictions are from actual prices.
 
 '''
