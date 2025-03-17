@@ -128,4 +128,10 @@ Covariance shows whether two assets tend to rise and fall together.
 - MSE penalizes larger errors more due to squaring, making it sensitive to outliers. while RMSE is often preferred for real-world understanding.
 - For example, in housing price prediction, MSE and RMSE help evaluate how far off the model’s predictions are from actual prices.
 
+42. L1 and L2 Regularization: →
+→ Sure! L1 regularization (lasso) adds a penalty based on the absolute values of coefficients, which can make some of them zero—helpful for feature selection. 
+L2 regularization (ridge) adds a penalty based on squared values, shrinking coefficients but keeping them nonzero—helpful to prevent overfitting.
+For example, L1 is used to pick important features in models, while L2 helps handle complex models without overfitting.
+
+
 '''
