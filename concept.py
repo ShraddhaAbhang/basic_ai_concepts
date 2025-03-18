@@ -133,5 +133,9 @@ Covariance shows whether two assets tend to rise and fall together.
 L2 regularization (ridge) adds a penalty based on squared values, shrinking coefficients but keeping them nonzero—helpful to prevent overfitting.
 For example, L1 is used to pick important features in models, while L2 helps handle complex models without overfitting.
 
+43.  How to Remove Outliers: →
+→ Removing outliers means identifying and eliminating data points that are very significantly different from the rest.
+Methods like the IQR method, Z-scores, or domain-specific rules help detect them. This prevents outliers from skewing analysis and improves model accuracy.
+For example, in sales data, extremely high sales on a rare day might be removed to better understand normal sales trends.
 
 '''
