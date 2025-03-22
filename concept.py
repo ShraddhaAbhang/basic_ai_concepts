@@ -1,5 +1,5 @@
 '''
-Deep Dive into Machine Learning and Deep Learning: Key Terms and Real-World Applications
+------Deep Dive into Machine Learning and Deep Learning: Key Terms and Real-World Applications------
 
 Explore the fundamentals and advanced concepts of machine learning and deep learning in this 
 comprehensive guide. From algorithms to evaluation metrics, we cover it all, providing clear explanations 
@@ -137,5 +137,7 @@ For example, L1 is used to pick important features in models, while L2 helps han
 → Removing outliers means identifying and eliminating data points that are very significantly different from the rest.
 Methods like the IQR method, Z-scores, or domain-specific rules help detect them. This prevents outliers from skewing analysis and improves model accuracy.
 For example, in sales data, extremely high sales on a rare day might be removed to better understand normal sales trends.
+
+
 
 '''
