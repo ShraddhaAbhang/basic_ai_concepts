@@ -138,6 +138,13 @@ For example, L1 is used to pick important features in models, while L2 helps han
 Methods like the IQR method, Z-scores, or domain-specific rules help detect them. This prevents outliers from skewing analysis and improves model accuracy.
 For example, in sales data, extremely high sales on a rare day might be removed to better understand normal sales trends.
 
+44. Stemming: →
+→ Stemming is the process of reducing words to their base or root form.  It helps in normalizing words by stripping suffixes to create a common base form, improving text 
+processing tasks like search and indexing.
+
+45. Lemmatization: →
+→ Lemmatization is the process of reducing words to their base or dictionary form (lemma), considering the context. Unlike stemming, lemmatization considers 
+the part of speech and context, producing more meaningful base forms improving the accuracy of information retrieval by ensuring words are in their most informative form.
 
 
 '''
